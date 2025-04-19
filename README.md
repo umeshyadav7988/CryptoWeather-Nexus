@@ -1,5 +1,4 @@
 # CryptoWeather Nexus
-
 A modern, multi-page dashboard combining weather data, cryptocurrency information, and real-time notifications using WebSocket. Built with Next.js, Redux, and Tailwind CSS.
 
 ## 🛠 Tech Stack
